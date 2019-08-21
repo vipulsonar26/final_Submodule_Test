@@ -1,6 +1,6 @@
 This is file 1 to create hello world...!!
 
-class myClass 
+class MyClass 
 {
 	public static void main(String args[])
 	{
