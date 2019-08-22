@@ -2,11 +2,12 @@ This is file 1 to create hello world...!!
 
 class MyClass 
 {
-	private void myMethod(String str) {
-			System.out.print(str);  //sysout
+	private static myMethod(String str) {
+		System.out.print(str);  //sysout
 	
 	}
 	public static void main(String args[])
 	{
+		myMethod("WelcomeTo Git....");	
 	}
 }
