@@ -1,7 +1,7 @@
 This is file2...
 
-Change -1
+change -1
 
-Chnage 2 from remote
+chnage 2 from remote
 
-Change -3  
+change -3  
