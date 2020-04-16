@@ -1,0 +1,3 @@
+[submodule "installer/jce"]
+	path = installer/jce
+	url = https://github.com/vipulsonar26/MyGitProject.git
