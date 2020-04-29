@@ -5,3 +5,6 @@
 	path = installer/test
 	url = https://github.com/vipulsonar26/final_Submodule_Test.git
 	branch = trunk
+[submodule "Test_submodule"]
+	path = Test_submodule
+	url = https://github.com/vipulsonar26/Test_submodule.git
